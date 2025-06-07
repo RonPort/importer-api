@@ -1,0 +1,5 @@
+fastapi[standard]
+pydantic
+boto3
+requests
+aws_requests_auth
